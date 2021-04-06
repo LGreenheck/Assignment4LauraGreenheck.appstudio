@@ -34,6 +34,22 @@
             "deleteEmployee",
             "deleteEmployee.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "babyNames",
+            "babyNames.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favBabynames",
+            "favBabynames.json"
+          ]
         }
       ],
       "configxml": null,
@@ -55,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "deleteEmployee",
+      "firstform": "babyNames",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
