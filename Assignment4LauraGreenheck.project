@@ -26,6 +26,33 @@
             "customerState",
             "customerState.json"
           ]
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "deleteEmployee",
+            "deleteEmployee.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "babyNames",
+            "babyNames.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favBabynames",
+            "favBabynames.json"
+          ]
+>>>>>>> Stashed changes
         }
       ],
       "configxml": null,
@@ -47,7 +74,11 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+<<<<<<< Updated upstream
       "firstform": "customerState",
+=======
+      "firstform": "babyNames",
+>>>>>>> Stashed changes
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
